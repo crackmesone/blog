@@ -42,7 +42,7 @@ The **top 5 players** - **quocbao21**, **august**, **hexamine**, **crazyman**, a
 
 Players ranked **6th to 10th** - **darbonzo**, **slightly**, **0nid**, **ELJoOker**, and **np** - received [WinRAR](https://www.win-rar.com/) licenses - because every reverse engineer deserves to finally register their copy.
 
-The **top 100 players** are now immortalized in our [Hall of Fame](https://ctf.crackmes.one/) - a permanent recognition of their skills and dedication.
+The **top 100 players** are now immortalized in our [Hall of Fame](https://ctf.crackmes.one/#hall-of-fame) - a permanent recognition of their skills and dedication.
 
 ### Best Writeup Prize
 
