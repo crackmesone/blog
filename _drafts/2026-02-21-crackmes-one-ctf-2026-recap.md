@@ -51,7 +51,7 @@ We're also giving away one **Binary Ninja license** for the best writeup! If you
 1. Join our [Discord](https://discord.gg/2pPV3yq)
 2. Post your writeup in the [#writeups](https://discord.com/channels/600262311302922261/1462152042603610195) channel under the "crackmes.one ctf" category
 
-**Submissions close February 23, 2026 at 00:00:00 UTC** (48 hours after the CTF ended).
+**Submissions close February 28, 2026 at 00:00:00 UTC** (one week after the CTF ended).
 
 ## Thank You
 
