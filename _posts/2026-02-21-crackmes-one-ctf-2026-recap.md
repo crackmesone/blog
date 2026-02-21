@@ -16,7 +16,7 @@ Back in the summer of 2025, I started thinking about organizing a CTF for the cr
 
 Fast forward to February 2026, and here we are. **The first-ever crackmes.one CTF has concluded**, and I couldn't be happier with how it turned out.
 
-## The Event
+## Let us RE!
 
 The CTF ran for one week, from **February 14 to February 21, 2026**. We hosted the competition on [CTFd](https://crackmesone.ctfd.io/) during the event, and the permanent home for all CTF-related information will remain at [ctf.crackmes.one](https://ctf.crackmes.one/).
 
@@ -34,7 +34,7 @@ These numbers are beyond what I expected for our first run.
 
 **Note:** We're keeping the [CTFd instance](https://crackmesone.ctfd.io/) running until the end of February. Act quickly if you want to take screenshots of your progress!
 
-## Prizes
+## Resutls
 
 ![Top 10 Scoreboard](/assets/images/top10-scoreboard.png)
 
@@ -50,7 +50,7 @@ We're also giving away one **Binary Ninja license** for the best Binary Ninja wr
 
 1. Join our [Discord](https://discord.gg/2pPV3yq)
 2. (Recommended) Publish your writeup(s) online (your blog, github pages, etc)
-3. Post your writeup(s) in the [#writeups](https://discord.com/channels/600262311302922261/1462152042603610195) channel under the "crackmes.one ctf" category
+3. Post your writeup(s) in the [#challenges](https://discord.com/channels/600262311302922261/1462152042603610195) channel under the "crackmes.one ctf" category
 3. Open a ticket to indicate your want to submit your writeup(s) for consideration of the best writeup prize
 
 **Submissions close February 28, 2026 at 00:00:00 UTC** (one week after the CTF ended).
