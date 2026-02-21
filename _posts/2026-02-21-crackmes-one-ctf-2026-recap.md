@@ -6,7 +6,7 @@ date: 2026-02-21
 
 # Crackmes.one RE CTF 2026 - A Recap
 
-> **We want to hear from you!** Please take a moment to fill out our **[survey](https://forms.gle/WiqkXHAFJ7nr6CoY9)** - it will be closing soon. Your input will help us make the next CTF even better.
+> **We want to hear from you!** Please take a moment to fill out our **[survey](https://forms.gle/WiqkXHAFJ7nr6CoY9)** - it will be closing soon. Your input will help us make the next CTF even better. Also, we're giving away **[two prizes for the best writeups](#best-writeup-prize)**!
 
 ---
 
@@ -24,9 +24,9 @@ We put together **12 challenges** spanning various difficulty levels and themes 
 
 By the end of the week:
 
-- **X** players registered
-- **Y** completed all 12 challenges
-- **Z** solved at least one challenge
+- **2331** players registered
+- **20** completed all 12 challenges
+- **710** solved at least one challenge
 
 These numbers are beyond what I expected for our first run.
 
@@ -46,10 +46,12 @@ The **top 100 players** are now immortalized in our [Hall of Fame](https://ctf.c
 
 ### Best Writeup Prize
 
-We're also giving away one **Binary Ninja license** for the best writeup! If you participated in the CTF and want a shot at this prize:
+We're also giving away one **Binary Ninja license** for the best Binary Ninja writeup, and a WinRAR license for the best non-binja writeup! If you participated in the CTF and want a shot at this prize:
 
 1. Join our [Discord](https://discord.gg/2pPV3yq)
-2. Post your writeup in the [#writeups](https://discord.com/channels/600262311302922261/1462152042603610195) channel under the "crackmes.one ctf" category
+2. (Recommended) Publish your writeup(s) online (your blog, github pages, etc)
+3. Post your writeup(s) in the [#writeups](https://discord.com/channels/600262311302922261/1462152042603610195) channel under the "crackmes.one ctf" category
+3. Open a ticket to indicate your want to submit your writeup(s) for consideration of the best writeup prize
 
 **Submissions close February 28, 2026 at 00:00:00 UTC** (one week after the CTF ended).
 
